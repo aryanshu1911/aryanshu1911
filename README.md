@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aryanshu Singh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aryanshu Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;AI+Security+Researcher;Backend+Developer" />
+</p> -->
+
+<h1 align="center">👨‍💻 Aryanshu Singh</h1>
+<h3 align="center">Cybersecurity • AI Security • Backend Development</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Python+Developer;Backend+Security+Engineer;AI+Threat+Detection;Open+Source+Contributor" />
 </p>
 
 # 💫 About Me:
