@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Aryanshu Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;AI+Security+Researcher;Backend+Developer;Open+Source+Contributor" />
+</p>
+
 # 💫 About Me:
 🔭 Currently Building:<br>A Blockchain-Based Incident Reporting DApp that enables citizens to report crimes with tamper-proof evidence management.<br>Also building secure backend systems and exploring AI-driven cybersecurity systems.<br><br>🌱 Currently Learning:<br>Cybersecurity defense techniques, vulnerability assessment, ML-based threat detection, and secure backend development with Python.<br><br>🤝 Looking to Collaborate On:<br>Cybersecurity tools, AI-powered threat detection systems, security-focused open-source projects, and data-driven backend applications.<br><br>💬 Ask Me About:<br>Python development, cybersecurity fundamentals, phishing detection systems, FastAPI backends, OSINT techniques, and password security.
 
